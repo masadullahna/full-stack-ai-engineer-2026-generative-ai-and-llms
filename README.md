@@ -1,1 +1,1 @@
-# full-stack-ai-engineer-2026-generative-ai-and-llms-3
+# Full-Stack AI Engineer 2026 - Generative AI & LLMs 3
